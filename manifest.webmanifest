@@ -1,0 +1,1 @@
+{"name":"Poker Ledger","short_name":"Poker Ledger","description":"Offline poker sessions, cash ledger and settlements","start_url":"./","scope":"./","display":"standalone","background_color":"#0c1017","theme_color":"#0c1017","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
